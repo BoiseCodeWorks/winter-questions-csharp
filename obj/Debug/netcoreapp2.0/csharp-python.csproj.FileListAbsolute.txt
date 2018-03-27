@@ -1,0 +1,10 @@
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\csharp-python\bin\Debug\netcoreapp2.0\csharp-python.deps.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\csharp-python\bin\Debug\netcoreapp2.0\csharp-python.runtimeconfig.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\csharp-python\bin\Debug\netcoreapp2.0\csharp-python.runtimeconfig.dev.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\csharp-python\bin\Debug\netcoreapp2.0\csharp-python.dll
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\csharp-python\bin\Debug\netcoreapp2.0\csharp-python.pdb
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\csharp-python\obj\Debug\netcoreapp2.0\csharp-python.csproj.CoreCompileInputs.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\csharp-python\obj\Debug\netcoreapp2.0\csharp-python.AssemblyInfoInputs.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\csharp-python\obj\Debug\netcoreapp2.0\csharp-python.AssemblyInfo.cs
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\csharp-python\obj\Debug\netcoreapp2.0\csharp-python.dll
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\csharp-python\obj\Debug\netcoreapp2.0\csharp-python.pdb
